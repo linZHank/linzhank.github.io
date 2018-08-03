@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 这条裙子好看吗？
+title: Disable nvidia card while installing Ubuntu 16.04
 data: 2018-06-18 10:57:00
 ---
 # Disable nvidia card while installing Ubuntu 16.04
