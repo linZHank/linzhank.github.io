@@ -1,9 +1,8 @@
 ---
 layout: default
 title: 再见大耳怪
-nav_order: 2
-has_children: false
-permalink: /docs/mumbles／farewell_hank
+parent: Mumbles
+nav_order: 1
 ---
 
 # 再见了，大耳怪
