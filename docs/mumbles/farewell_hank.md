@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 再见大耳怪
+title: Farewell Hank
 parent: Mumbles
 nav_order: 1
 ---
