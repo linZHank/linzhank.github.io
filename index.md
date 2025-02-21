@@ -7,4 +7,4 @@ permalink: /
 ---
 
 # Greetings! 
-Welcome to a Palebluedotian's mumbles.
+You are reading a Palebluedotian's mumbles.
