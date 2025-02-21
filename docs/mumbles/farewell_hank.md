@@ -2,7 +2,7 @@
 layout: default
 title: Farewell Hank
 parent: Mumbles
-nav_order: 1
+nav_order: 2
 ---
 
 # 再见了，大耳怪
